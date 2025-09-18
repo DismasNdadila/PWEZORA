@@ -1,0 +1,70 @@
+# Compiled executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Static libraries
+*.lib
+*.a
+
+# Dynamic libraries
+*.dll
+*.so
+*.dylib
+
+# Compiled Dynamic libraries
+*.so.*
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Compiler-specific
+*.gch
+*.pch
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Build directories
+build/
+output/
+bin/
+debug/
+release/
+
+# IDE files
+.vscode/
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Log files
+*.log
