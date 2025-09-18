@@ -2,7 +2,7 @@
 #include <vector>
 #include <string>
 #include <algorithm>
-#include "ascii_art_library.h"
+#include "include/ascii_art_library.h"
 
 #ifdef _WIN32
     #include <windows.h>
